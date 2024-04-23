@@ -1,0 +1,7 @@
+crewai
+streamlit
+openai
+langchain_openai
+requests
+langchain
+pysqlite3-binary
